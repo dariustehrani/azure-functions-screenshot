@@ -5,5 +5,3 @@ For demo purposes you can pass github user names and it will reach out to the us
 ## Sample Query
 http://yourfunctionurl/api/HttpTrigger?name=dariustehrani
 
-
-## Credits
