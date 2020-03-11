@@ -15,6 +15,9 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan
 ## custom docker images
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image?tabs=portal%2Cbash&pivots=programming-language-javascript
 
+## GitHub Actions
+https://github.com/Azure/actions
+
 
 
 # Credits
