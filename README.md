@@ -5,3 +5,17 @@ For demo purposes you can pass github user names and it will reach out to the us
 ## Sample Query
 http://yourfunctionurl/api/HttpTrigger?name=dariustehrani
 
+# Tech Stack
+## Azure Container Registry
+https://azure.microsoft.com/en-us/services/container-registry/
+
+## Azure Functions
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan
+
+## custom docker images
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image?tabs=portal%2Cbash&pivots=programming-language-javascript
+
+
+
+# Credits
+https://github.com/ltwlf/azure-functions-docker-puppeteer
